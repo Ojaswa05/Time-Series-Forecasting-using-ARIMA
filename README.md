@@ -1,4 +1,8 @@
-# Italian Energy Demand & Solar Forecasting
+<div align="center">
+
+# Energy Demand & Solar Forecasting
+
+</div>
 
 <p align="center">
   <img src="assets/arima-forecast-overview.svg" alt="Illustration of hourly energy demand and solar generation time series with a forecast horizon" width="820">
